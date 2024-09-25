@@ -1,23 +1,26 @@
-# Hello World!
+# About Me 
 
-This is my new webpage.
+Hello, my name is <em><b>Laura</b></em>! I have created this webpage for a final project in my CTI 110 (Web, Programming, and Databases) class at Fayetteville Technical Community College (FTCC). I have really enjoyed this class! 😊 I am currently studying Computer Programming & Development, as well as Geospatial Intelligence Studies.
 
+My dream is to become a Computer Programmer and Web Developer. However, I'm very interested in many aspects of IT - including Data Science and Cybersecurity. 
 
-The Mandalorian is an upcoming American television series created by Jon Favreau. The series is set five years after the events of Star Wars: Episode VII – The Force Awakens, and follows the adventures of a lone Mandalorian gunfighter in the outer reaches of the galaxy.
+I am from Raleigh, North Carolina, USA, and am a graduate of NC State University. Go Wolfpack!
 
-The Mandalorian is set to premiere March 1, 2023.
+<img src="https://user-images.githubusercontent.com/116817238/205969374-b05645dc-4e06-49ae-9005-378332d9427b.png" width="300">
 
-The Mandalorian cast includes Pedro Pascal, Gina Carano, Carl Weathers
+<b>Interests</b>: Computer Technology, Fashion, Beauty (Makeup, Skincare), Current Events & Politics, Animals, Paranormal Topics, Podcasts, Documentaries/Movies/TV, singing, music, Belly Dancing, reading, shopping, and spending time with family and friends.
 
-The Mandalorian, AKA Din Djarin, is a feared and respected bounty hunter who has a reputation for being relentless in the pursuit of his targets. He is a skilled fighter and a master of hand-to-hand combat.
+I have a pet Dachshund, "wiener dog", named Evelyn, and she is 11.5 years old! She is literally my child - that's how much I love her! 
 
-Grogu, AKA Baby Yoda, is a 50-year-old infant who was discovered by the Mandalorian. He has a strong connection to the Force and is being sought after by the Empire.
+<img src="0727181732a.jpg">
 
-<img src="https://user-images.githubusercontent.com/116817238/205964042-17c22a37-bab5-4df2-8df6-ba6b02138248.png" width="500">
+I had a pet Dachshund named Walter, but he passed away 2 years ago. He lived for 13.5 years & was a black-and-tan dog just like Evelyn. Walter had two major spinal injuries that caused him to lose most use of his hind legs. I bought him a little cart, AKA a doggie wheelchair, and he absolutely loved it! He lived his life as though he had no disability.
 
-When searching for AI images of Grogu/Baby Yoda on <a href="https://beta.openai.com">OpenAI</a>, I found some really ugly, scary images. Below is an example of one. Watch out! It's horrible!
+<img src="DSC_0060.JPG">
 
-DALL-E 2 gave me this:<br> 
-<img src="DALL·E 2022-12-06 11.18.09 - promotional art of baby yoda in space, cute, character art.png" width="500">
+Last, but not least, my parents and I rescued a baby squirrel recently. His name is Mr. Nibbles AKA Superman. We tried to release him back into the wild, but he came back after 2 days!
 
-Read about the <a href="about.html">author</a> of this website.
+<img src="IMG_20221106_150153.jpg" width="600">
+
+## Contact Me
+<a href="contact.html">Say Hi</a>
